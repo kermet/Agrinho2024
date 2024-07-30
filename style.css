@@ -1,7 +1,7 @@
 body{
-    background-color: green;
+    background-color: rgb(10, 65, 10);
 }
 .cabecalho{
-    background-color: greenyellow;
+    background-color: rgb(158, 250, 19);
     height: 55px;
 }
